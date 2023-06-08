@@ -6,6 +6,7 @@ resources/CMakeFiles
 *~
 *.swp
 html/
+notsecrets/
 
 # Project Files
 *.pro.user
